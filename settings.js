@@ -8,16 +8,16 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "1txhzAzJ#G4CGdL42FKGGruhkRf-ZzCAV-4kAVBYJLrzObtjS6CU",
 // add your Session Id 
 
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "/",
 // add your prifix for bot
 
-BOT_NAME: process.env.BOT_NAME || "✦ᴍᴀʟᴠɪɴ xᴅ",
+BOT_NAME: process.env.BOT_NAME || "Abhii Bot 😈",
 // add bot name here for menu
 
-CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
+CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 // make this true for custum emoji react   
 
-STICKER_NAME: process.env.STICKER_NAME || "MALVIN-XD",
+STICKER_NAME: process.env.STICKER_NAME || "ABHI-BOT",
 // type sticker pack name  
 
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🔥,❤️‍🩹,❤️,🩷,🧡,💛,💚,💙,🩵,💜,🤎,🖤,🩶,🤍",
@@ -26,13 +26,13 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "263714757857",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "9779844298980",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "✦ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ🪀✦",
+OWNER_NAME: process.env.OWNER_NAME || "ABHI DON 💀🤙",
 // add bot owner name
 
-DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ɴᴇxᴜs ᴛᴇᴄʜ✦ ɪɴᴄ*",
+DESCRIPTION: process.env.DESCRIPTION || "> *© all copy right reserved by abhi ",
 // add bot owner name    
 
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
@@ -92,7 +92,7 @@ ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
 
-AUTO_TYPING: process.env.AUTO_TYPING || "true",
+AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 
 AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
@@ -107,7 +107,7 @@ FAKE_TYPING: process.env.FAKE_TYPING || "false",
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-DEV: process.env.DEV || "263714757857",
+DEV: process.env.DEV || "9779844298980",
 //replace with your whatsapp number       
  
 ANTI_VV: process.env.ANTI_VV || "true",
