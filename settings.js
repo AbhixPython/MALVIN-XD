@@ -8,7 +8,7 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "1txhzAzJ#G4CGdL42FKGGruhkRf-ZzCAV-4kAVBYJLrzObtjS6CU",
 // add your Session Id 
 
-PREFIX: process.env.PREFIX || "/",
+PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
 
 BOT_NAME: process.env.BOT_NAME || "Abhii Bot 😈",
@@ -35,13 +35,13 @@ OWNER_NAME: process.env.OWNER_NAME || "ABHI DON 💀🤙",
 DESCRIPTION: process.env.DESCRIPTION || "> *© all copy right reserved by abhi ",
 // add bot owner name    
 
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/novkik.jpg",
 // add img for alive msg
 
-MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/y65ffs.jpg",
+MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/novkik.jpg",
 // dont change menu image
 
-LIVE_MSG: process.env.LIVE_MSG || "> ✦ᴍᴀʟᴠɪɴ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ v2✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD",
+LIVE_MSG: process.env.LIVE_MSG || "> ✦ Abhi Bot is Sparking Active And Alive\n\n\nKeep Using ✦Abhi Bot v1 ✦ ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/Abhiidon",
 // add alive msg here 
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
@@ -62,7 +62,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto react on status (still testing)
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by ᴍᴀʟᴠɪɴ xᴅ 🚀🔥*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by Abhi Bot v1 🚀🔥*",
 // set the auto reply massage on status reply    
 
 MODE: process.env.MODE || "public",
